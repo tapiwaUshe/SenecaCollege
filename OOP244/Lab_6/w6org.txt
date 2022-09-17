@@ -1,0 +1,20 @@
+A: No Name: $0.00
+B: Saving: $10000.99
+C: Checking: $100.99
+--------
+A: No Name: $10101.98
+B: Saving: $10000.99
+C: Checking: $100.99
+--------
+A: Joint: $10101.98
+B: Saving: $10000.99
+C: Checking: $100.99
+--------
+A: Saving: $10101.98
+B: Saving: $10101.98
+C: Checking: $100.99
+--------
+A: Saving: $10302.98
+B: Saving: $10302.98
+C: Checking: $201.00
+--------

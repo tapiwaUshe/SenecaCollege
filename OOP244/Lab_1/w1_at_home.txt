@@ -1,0 +1,16 @@
+To create a Visual Studio Console Application you must first open visual studio.
+Once visual studio has open click on New Project.
+After clicking on it there will be a window that shows what type of language you want to create.
+At the window click on Other languages then click on Visual C++.
+At the drop down menu there will be one that is called Win32.
+After clicking on Win32, select Win32 Console Application this will create a console application.
+When that is done an Application Wizard will pop-up. There will be two option for you to do.
+You can either click the Next button or select Application Settings. Both of these option will bring you to the
+next part.
+When you get into Application settings de-select Prcompiled header and Security Development Lifecycle(SDL)Checks,
+After that you need to select Empty project.
+Once you have done that click Finish.
+After the loading, a visual studio will create an empty project for the console application.
+Now to add files to this project, right-click the "Source Files" on the Solution Explorer and add New Item.
+When the window shows select "C++ File(.cpp)". This will create a C++ file.
+After adding the file you will need to add your codes into it and this will make a console application.

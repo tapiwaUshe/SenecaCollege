@@ -1,0 +1,61 @@
+Script started on Mon 08 Feb 2016 08:51:28 AM EST
+fardad.soleimanloo@matrix:~/oop244/wsdev/Workshop4/at_home> a.out
+Please entere the number of course sections: 5
+Please enter the following 5 course sections for enrollment:
+Course section 1:
+Subject Name: aaa aaa
+Subject Code: aa
+Year: 2015
+Semester: 3
+Slot: 3
+Enrolled!
+Continue? (y/n)y
+Course section 2:
+Subject Name: bbb bbb
+Subject Code: bb
+Year: 2015
+Semester: 2
+Slot: 2
+Enrolled!
+Continue? (y/n)y
+Course section 3:
+Subject Name: ccc ccc
+Subject Code: cc
+Year: 2015
+Semester: 2
+Slot: 2
+There is a conflict with the following, please change enrollment time: 
+bbb bbb
+bb, Year: 2015 semester: 2 Slot: 2
+Status: Enrolled.
+Course section 3:
+Subject Name: ccc ccc
+Subject Code: cc
+Year: 2015
+Semester: 1
+Slot: 1
+Enrolled!
+Continue? (y/n)n
+------------------------------
+aaa aaa
+aa, Year: 2015 semester: 3 Slot: 3
+Status: Enrolled.
+------------------------------
+bbb bbb
+bb, Year: 2015 semester: 2 Slot: 2
+Status: Enrolled.
+------------------------------
+ccc ccc
+cc, Year: 2015 semester: 1 Slot: 1
+Status: Enrolled.
+------------------------------
+InValid enrollment!
+------------------------------
+InValid enrollment!
+aaa aaa
+aa, Year: 2015 semester: 3 Slot: 3
+Status: Not enrolled.
+fardad.soleimanloo@matrix:~/oop244/wsdev/Workshop4/at_home> exit
+exit
+
+Script done on Mon 08 Feb 2016 08:52:33 AM EST

@@ -1,0 +1,8 @@
+Mom - 20
+Dad - 10
+Mom - 90
+Dad - 30
+Mom is stronger!
+Dad - 5
+Mom - 0
+Dad is stronger!

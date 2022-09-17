@@ -1,0 +1,9 @@
+1) 
+	a. The safe empty state in this program is the setEmpty function.
+	b. Function set an object to a default value instead of arbitrary
+	   value that is store inside the object.
+
+2) Having different type of constructor allow the object to store different type of
+   value. By using the multiple Enrollment constructors, we can add different type of
+   default value within the program. Some example can be, different Student can have a different
+   constructor so the variable that store inside will be different than other student.

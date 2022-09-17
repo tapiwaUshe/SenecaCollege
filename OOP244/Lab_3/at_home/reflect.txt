@@ -1,0 +1,7 @@
+1. If dynamic memory is not deallocated it will create a memory leak until running out of space
+
+2. The 2 method of formatting IO stream data are cin, and cout.
+
+3. It is required to use dynamic memory in the main() function because 
+the program will not know the amount of space it would need to run the program.
+If you put a set a specific amount you might not have enough space to run the program.

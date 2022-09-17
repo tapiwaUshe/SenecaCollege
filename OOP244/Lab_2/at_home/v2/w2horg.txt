@@ -1,0 +1,27 @@
+Script started on Thu 14 Jan 2016 03:52:54 PM EST
+Bart.Simpson@matrix:~/oop244/Workshop2/w2_at_home> a.out
+Bank account app
+===================
+
+Please enter your name: John
+please enter your bank account ,branch code, and account number as follows:
+999 999 99999: 1 123 12345
+John does not have a valid account number.
+-------------
+John does not have a valid account number.
+-------------
+John does not have a valid account number.
+-------------
+John does not have a valid account number.
+Invalid account number, (999 999 9999), try again: 123 123 12345
+Name: John, Account number: 123-123-12345
+-------------
+Account number: 123-123-12345
+-------------
+Name: John
+-------------
+Thank you!
+Bart.Simpson@matrix:~/oop244/Workshop2/w2_at_home> exit
+exit
+
+Script done on Thu 14 Jan 2016 03:53:36 PM EST

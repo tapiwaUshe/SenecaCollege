@@ -1,0 +1,41 @@
+Script started on Tue 19 Jan 2016 12:52:51 PM EST
+kcho18@matrix:~/OOP244/Complete/Lab_1> w1
+Welcome to SeneGraph
+No Of Samples: 0
+1- Number of Samples
+2- Sample Entry
+3- Draw Graph
+0- Exit
+> 1
+Enter number of samples on hand: 3
+No Of Samples: 3
+1- Number of Samples
+2- Sample Entry
+3- Draw Graph
+0- Exit
+> 2
+Please enter the sample values: 
+1/3: 30
+2/3: 60
+3/3: 100
+No Of Samples: 3
+1- Number of Samples
+2- Sample Entry
+3- Draw Graph
+0- Exit
+> 3
+Graph:
+********************* 30
+****************************************** 60
+********************************************************************** 100
+No Of Samples: 3
+1- Number of Samples
+2- Sample Entry
+3- Draw Graph
+0- Exit
+> 0
+Thanks for using SeneGraph
+kcho18@matrix:~/OOP244/Complete/Lab_1> exit
+exit
+
+Script done on Tue 19 Jan 2016 12:57:48 PM EST

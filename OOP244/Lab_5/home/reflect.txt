@@ -1,0 +1,7 @@
+allocateAndCopy function first check if the current value is valid  then it
+copies the data then allocate the resource and get copy the string and then return
+if it is valid or not.
+
+a copy constructor and assignment operator is needed because it is to use to copy a resource from 
+another location and create a seperate allocated resource that allow you to compare the resource
+within.

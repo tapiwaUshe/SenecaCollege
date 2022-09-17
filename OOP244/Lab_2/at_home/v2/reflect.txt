@@ -1,0 +1,10 @@
+1. For this workshop the feature that I used to help me solve the problem 
+   is the display functions because the main objective of the at_home part
+   of the assignment is to change the display out come compare to the in_lab.
+   On my part of the program I changed a bit on how the display function retrieve
+   it data. Some of the changes I have made are adding boolean to the function.
+   Making condition to check if it meets the requirement.
+
+2. It is able to print the account is not valid because of the missing semicolon
+   by removing the semicolon it allow the while loop to read the next line of the
+   program then stop and loop back up to the start of the loop.

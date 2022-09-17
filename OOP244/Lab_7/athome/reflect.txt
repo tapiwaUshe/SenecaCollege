@@ -1,0 +1,16 @@
+1. isEmpty() member function was not necessary because
+you never check if the object is empty or not. Even when the 
+strength goes to 0 it will only  display that the object is
+either 0 or lower.
+
+2. The privacy access level is class level
+
+3. To modify the solution you need to put the strength into the public instead
+
+4. To modify the solution to create the outcome of "(name) the deceased superhero!"
+you will need to modify the display file within the SuperHero.cpp file. You will need
+to add the name after the cout or before the "living superhero!".
+
+5. Line 35 can compile because there are more parameter within the superhero class than the hero class
+therefore the hero class takes the first 2 parameter in and create an object with it.
+

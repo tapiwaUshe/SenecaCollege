@@ -1,0 +1,17 @@
+1. virtual function are function that allow other class to use the function
+with the same function call.
+
+2. The difference between virtual and pure virtual method are pure virtual allows
+it children to implement the function while virtual cannot.
+ 
+3. Abstract classes can only be implement through pure virtual function, they are 
+useful in this application because it allows the childrens function to inherit 
+it functions even if they parents did not implement it.
+
+4. What are interfaces and why were they useful in the application we created for this workshop?
+Interfaces are class that has no pure function in them, they are useful because sometimes
+the certain class does not require the function but their children require it. So it allows
+their children to implement instead.
+
+5. Abstruct and interface are not necessarily the same thing but they are really similar
+to each other because both of function type take in the same concept.

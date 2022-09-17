@@ -1,0 +1,10 @@
+
+In line number 2 of your output:
+The output should be:
+B: Saving: $10000.99
+But your output is: 
+
+^
+|
+Professors character ASCII code: hex(42), dec(66)
+un-matched character ASCII code: hex(0), dec(0)

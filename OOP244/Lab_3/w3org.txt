@@ -1,0 +1,25 @@
+Script started on Fri 29 Jan 2016 02:49:16 PM EST
+kylo.ren@matrix:~/oop244/Workshop3/in_lab> a.out
+Weather Data
+=====================
+Days of Weather: 3
+Enter date: Oct/1
+Enter high: 15
+Enter low : 10
+Enter date: Nov/13
+Enter high: 10
+Enter low : 1.1
+Enter date: Dec/15
+Enter high: 5.5
+Enter low : -6.5
+
+Weather report:
+Date        high  low
+======================
+Oct/1_______15.0__10.0
+Nov/13______10.0___1.1
+Dec/15_______5.5__-6.5
+kylo.ren@matrix:~/oop244/Workshop3/in_lab> exit
+exit
+
+Script done on Fri 29 Jan 2016 02:50:39 PM EST

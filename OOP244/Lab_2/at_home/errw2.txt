@@ -1,0 +1,9 @@
+w2_at_home.cpp: In function ‘void displayAccountNumber(const sict::AccountNumber*)’:
+w2_at_home.cpp:47:16: error: no matching function for call to ‘sict::AccountNumber::display() const’
+w2_at_home.cpp:47:16: note: candidate is:
+AccountNumber.h:44:8: note: void sict::AccountNumber::display(bool, bool) const
+AccountNumber.h:44:8: note:   candidate expects 2 arguments, 0 provided
+w2_at_home.cpp:49:21: error: no matching function for call to ‘sict::AccountNumber::display(bool) const’
+w2_at_home.cpp:49:21: note: candidate is:
+AccountNumber.h:44:8: note: void sict::AccountNumber::display(bool, bool) const
+AccountNumber.h:44:8: note:   candidate expects 2 arguments, 1 provided

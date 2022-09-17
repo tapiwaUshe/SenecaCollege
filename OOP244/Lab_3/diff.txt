@@ -1,0 +1,10 @@
+
+In line number 19 of your output:
+The output should be:
+Oct/1_______15.0__10.0
+But your output is: 
+Oct/1______15.0___10.0
+           ^
+-----------|
+Professors character ASCII code: hex(5f), dec(95)
+un-matched character ASCII code: hex(31), dec(49)
